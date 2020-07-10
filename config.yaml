@@ -1,0 +1,6 @@
+encoder_path: "models/encoder-5-3000.pkl"
+decoder_path: "models/decoder-5-3000.pkl"
+vocab_path: "data/vocab.pkl"
+embed_size: 256
+hidden_size: 512
+num_layers: 1
